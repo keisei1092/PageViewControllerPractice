@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PageViewController.swift
 //  PageViewControllerPractice
 //
 //  Created by Keisei Saito on 2017/05/14.
@@ -8,6 +8,6 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PageViewController: UIPageViewController {
 
 }
